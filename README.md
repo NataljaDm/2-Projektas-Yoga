@@ -5,7 +5,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://simkaz12.github.io/Project_3/
+Site published at: https://github.com/NataljaDm/2-Projektas-Yoga/commits/master
 
 Design: Yoga (main), Astronautas (footer only)
 
@@ -29,7 +29,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://github.com/simkaz12/Project_3.git
+git clone https://github.com/NataljaDm/2-Projektas-Yoga/commits/master
 Install NPM packages
 npm i
 or
