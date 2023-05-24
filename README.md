@@ -69,7 +69,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Simonas: [Github](https://github.com/simkaz12NataljaDm)
+Natalja: [Github](https://github.com/NataljaDm)
 
 ## ⚠️ License
 
